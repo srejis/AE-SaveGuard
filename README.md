@@ -73,4 +73,4 @@
 이 프로그램이 작업을 한 번이라도 살렸다면  
 개발을 후원해 주세요
 
-☕ https://ko-fi.com/너아이디
+☕ https://ko-fi.com/srejis
