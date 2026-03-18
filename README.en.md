@@ -79,4 +79,4 @@ or
 If this tool saved your work even once,  
 consider supporting development
 
-☕ https://ko-fi.com/너아이디
+☕ https://ko-fi.com/srejis
